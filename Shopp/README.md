@@ -3,4 +3,4 @@ E-Commerce Website
 
 
 preview:
-![alt_txt](https://github.com/M-Akhil-pavan-sai/Shopping_Stop/blob/main/websiteimg.png)
+![alt_txt](https://github.com/Rishika0504/Shoppers-HUB/blob/main/Shopp/websiteimg.png)
